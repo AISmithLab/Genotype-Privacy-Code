@@ -1,0 +1,4 @@
+chromosomes/*.vcf.gz filter=lfs diff=lfs merge=lfs -text
+chromosomes/*.vcf.gz.tbi filter=lfs diff=lfs merge=lfs -text
+chromosomes/.vcf.gz filter=lfs diff=lfs merge=lfs -text
+chromosomes/.vcf.gz.tbi filter=lfs diff=lfs merge=lfs -text
